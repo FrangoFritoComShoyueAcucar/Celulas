@@ -1,0 +1,30 @@
+.Cabeçalho{
+    background-color: azure;
+    color: lightslategray;
+    text-align: center;
+    font-size: large;
+}
+.flamengobosta{
+    text-align: center;
+    color: lightslategray;
+    background-color: azure;
+}
+.flamengolixo{
+ text-align: center;
+ background-color: azure;
+}
+
+.texto{
+    color: darkslategrey;
+    font-size: x-large;
+    color: darkslategray;
+    background-color: azure;
+}
+
+.body{
+    background-color: rgb(198, 235, 235);
+}
+.flamengolixo2{
+    color: rgb(82, 93, 105);
+    background-color: azure
+}
